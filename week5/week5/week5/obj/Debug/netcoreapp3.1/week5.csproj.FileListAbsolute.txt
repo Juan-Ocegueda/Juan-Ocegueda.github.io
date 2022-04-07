@@ -1,0 +1,13 @@
+C:\Users\406820\source\repos\week5\week5\bin\Debug\netcoreapp3.1\week5.exe
+C:\Users\406820\source\repos\week5\week5\bin\Debug\netcoreapp3.1\week5.deps.json
+C:\Users\406820\source\repos\week5\week5\bin\Debug\netcoreapp3.1\week5.runtimeconfig.json
+C:\Users\406820\source\repos\week5\week5\bin\Debug\netcoreapp3.1\week5.runtimeconfig.dev.json
+C:\Users\406820\source\repos\week5\week5\bin\Debug\netcoreapp3.1\week5.dll
+C:\Users\406820\source\repos\week5\week5\bin\Debug\netcoreapp3.1\week5.pdb
+C:\Users\406820\source\repos\week5\week5\obj\Debug\netcoreapp3.1\week5.csprojAssemblyReference.cache
+C:\Users\406820\source\repos\week5\week5\obj\Debug\netcoreapp3.1\week5.AssemblyInfoInputs.cache
+C:\Users\406820\source\repos\week5\week5\obj\Debug\netcoreapp3.1\week5.AssemblyInfo.cs
+C:\Users\406820\source\repos\week5\week5\obj\Debug\netcoreapp3.1\week5.csproj.CoreCompileInputs.cache
+C:\Users\406820\source\repos\week5\week5\obj\Debug\netcoreapp3.1\week5.dll
+C:\Users\406820\source\repos\week5\week5\obj\Debug\netcoreapp3.1\week5.pdb
+C:\Users\406820\source\repos\week5\week5\obj\Debug\netcoreapp3.1\week5.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\406820\source\repos\VerseSong\VerseSong\bin\Debug\netcoreapp3.1\VerseSong.exe
+C:\Users\406820\source\repos\VerseSong\VerseSong\bin\Debug\netcoreapp3.1\VerseSong.deps.json
+C:\Users\406820\source\repos\VerseSong\VerseSong\bin\Debug\netcoreapp3.1\VerseSong.runtimeconfig.json
+C:\Users\406820\source\repos\VerseSong\VerseSong\bin\Debug\netcoreapp3.1\VerseSong.runtimeconfig.dev.json
+C:\Users\406820\source\repos\VerseSong\VerseSong\bin\Debug\netcoreapp3.1\VerseSong.dll
+C:\Users\406820\source\repos\VerseSong\VerseSong\bin\Debug\netcoreapp3.1\VerseSong.pdb
+C:\Users\406820\source\repos\VerseSong\VerseSong\obj\Debug\netcoreapp3.1\VerseSong.csprojAssemblyReference.cache
+C:\Users\406820\source\repos\VerseSong\VerseSong\obj\Debug\netcoreapp3.1\VerseSong.AssemblyInfoInputs.cache
+C:\Users\406820\source\repos\VerseSong\VerseSong\obj\Debug\netcoreapp3.1\VerseSong.AssemblyInfo.cs
+C:\Users\406820\source\repos\VerseSong\VerseSong\obj\Debug\netcoreapp3.1\VerseSong.csproj.CoreCompileInputs.cache
+C:\Users\406820\source\repos\VerseSong\VerseSong\obj\Debug\netcoreapp3.1\VerseSong.dll
+C:\Users\406820\source\repos\VerseSong\VerseSong\obj\Debug\netcoreapp3.1\VerseSong.pdb
+C:\Users\406820\source\repos\VerseSong\VerseSong\obj\Debug\netcoreapp3.1\VerseSong.genruntimeconfig.cache

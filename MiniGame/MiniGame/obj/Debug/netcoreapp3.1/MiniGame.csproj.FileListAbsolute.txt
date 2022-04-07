@@ -1,0 +1,13 @@
+C:\Users\406820\source\repos\MiniGame\MiniGame\obj\Debug\netcoreapp3.1\MiniGame.csprojAssemblyReference.cache
+C:\Users\406820\source\repos\MiniGame\MiniGame\obj\Debug\netcoreapp3.1\MiniGame.AssemblyInfoInputs.cache
+C:\Users\406820\source\repos\MiniGame\MiniGame\obj\Debug\netcoreapp3.1\MiniGame.AssemblyInfo.cs
+C:\Users\406820\source\repos\MiniGame\MiniGame\obj\Debug\netcoreapp3.1\MiniGame.csproj.CoreCompileInputs.cache
+C:\Users\406820\source\repos\MiniGame\MiniGame\bin\Debug\netcoreapp3.1\MiniGame.exe
+C:\Users\406820\source\repos\MiniGame\MiniGame\bin\Debug\netcoreapp3.1\MiniGame.deps.json
+C:\Users\406820\source\repos\MiniGame\MiniGame\bin\Debug\netcoreapp3.1\MiniGame.runtimeconfig.json
+C:\Users\406820\source\repos\MiniGame\MiniGame\bin\Debug\netcoreapp3.1\MiniGame.runtimeconfig.dev.json
+C:\Users\406820\source\repos\MiniGame\MiniGame\bin\Debug\netcoreapp3.1\MiniGame.dll
+C:\Users\406820\source\repos\MiniGame\MiniGame\bin\Debug\netcoreapp3.1\MiniGame.pdb
+C:\Users\406820\source\repos\MiniGame\MiniGame\obj\Debug\netcoreapp3.1\MiniGame.dll
+C:\Users\406820\source\repos\MiniGame\MiniGame\obj\Debug\netcoreapp3.1\MiniGame.pdb
+C:\Users\406820\source\repos\MiniGame\MiniGame\obj\Debug\netcoreapp3.1\MiniGame.genruntimeconfig.cache

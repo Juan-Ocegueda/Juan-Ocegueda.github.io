@@ -1,0 +1,3 @@
+Isengard;wrench;My wagon has broken a wheel can you help me fix it?
+Rivendell;cake;Could I interest you in a slice of cake?
+Moria;mithril;Would you like to purchase some armor?

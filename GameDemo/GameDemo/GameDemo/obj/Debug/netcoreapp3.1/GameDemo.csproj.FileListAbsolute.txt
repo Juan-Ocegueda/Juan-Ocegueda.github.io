@@ -1,0 +1,4 @@
+C:\Users\406820\source\repos\GameDemo\GameDemo\obj\Debug\netcoreapp3.1\GameDemo.csprojAssemblyReference.cache
+C:\Users\406820\source\repos\GameDemo\GameDemo\obj\Debug\netcoreapp3.1\GameDemo.AssemblyInfoInputs.cache
+C:\Users\406820\source\repos\GameDemo\GameDemo\obj\Debug\netcoreapp3.1\GameDemo.AssemblyInfo.cs
+C:\Users\406820\source\repos\GameDemo\GameDemo\obj\Debug\netcoreapp3.1\GameDemo.csproj.CoreCompileInputs.cache
